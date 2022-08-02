@@ -13,7 +13,7 @@ function App() {
   
 
 
-  return (
+  return(
     <div className="App">
       <article className="image-card">
         <h2 className="title">Title of image goes here</h2>
